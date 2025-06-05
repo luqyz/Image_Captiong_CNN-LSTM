@@ -62,7 +62,7 @@ The goal of this project is to generate natural language captions for images by 
 
 ## 👩‍🏫 Acknowledgment
 
-This project was completed as part of an in-class practical session under the guidance of [Lecturer's Name, if you'd like to include it].
+This project was completed as part of an in-class practical session.
 
 ---
 
